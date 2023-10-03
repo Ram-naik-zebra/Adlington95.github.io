@@ -1,9 +1,9 @@
 {
   "customer": {
-    "add": true,
-    "delete": true,
-    "edit": true,
-    "search": true
+    "add": false,
+    "delete": false,
+    "edit": false,
+    "search": false
   },
   "user": {
     "add": true,
