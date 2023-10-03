@@ -1,39 +1,37 @@
 {
-  "pages": {
-    "customer": {
-      "add": true,
-      "delete": true,
-      "edit": true,
-      "search": true
-    },
-    "user": {
-      "add": true,
-      "delete": true,
-      "edit": true,
-      "search": true
-    },
-    "role": {
-      "add": true,
-      "delete": true,
-      "edit": true,
-      "search": true
-    },
-    "group": {
-      "add": true,
-      "delete": true,
-      "edit": true,
-      "search": true
-    },
-    "site": {
-      "add": true,
-      "delete": true,
-      "edit": true,
-      "search": true
-    },
-    "hierarchy": {
-      "add": true,
-      "delete": true,
-      "edit": true
-    }
+  "customer": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "user": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "role": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "group": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "site": {
+    "add": true,
+    "delete": true,
+    "edit": true,
+    "search": true
+  },
+  "hierarchy": {
+    "add": true,
+    "delete": true,
+    "edit": true
   }
 }
