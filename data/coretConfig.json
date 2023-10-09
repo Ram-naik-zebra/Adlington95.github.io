@@ -3,7 +3,7 @@
     "add": false,
     "delete": false,
     "edit": false,
-    "search": false
+    "search": true
   },
   "user": {
     "add": true,
