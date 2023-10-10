@@ -1,8 +1,8 @@
 {
   "customer": {
-    "add": true,
-    "delete": true,
-    "edit": true,
+    "add": false,
+    "delete": false,
+    "edit": false,
     "search": true
   },
   "user": {
@@ -14,7 +14,8 @@
   },
   "header": {
     "onboarding": true,
-    "appLaunch": true
+    "appLaunch": true,
+    "language": true
   },
   "role": {
     "add": true,
