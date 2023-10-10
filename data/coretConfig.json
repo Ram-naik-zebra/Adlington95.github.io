@@ -9,7 +9,12 @@
     "add": true,
     "delete": true,
     "edit": true,
-    "search": true
+    "search": true,
+    "attributes": true
+  },
+  "header": {
+    "onboarding": true,
+    "appLaunch": true
   },
   "role": {
     "add": true,
