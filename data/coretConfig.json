@@ -13,10 +13,10 @@
     "attributes": true
   },
   "header": {
-    "onboarding": true,
-    "appLaunch": true,
-    "language": true,
-    "profile": true
+    "onboarding": false,
+    "appLaunch": false,
+    "language": false,
+    "profile": false
   },
   "role": {
     "add": true,
