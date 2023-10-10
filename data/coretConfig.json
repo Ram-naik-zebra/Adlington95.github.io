@@ -14,7 +14,8 @@
   },
   "header": {
     "onboarding": true,
-    "appLaunch": true
+    "appLaunch": true,
+    "language": true
   },
   "role": {
     "add": true,
