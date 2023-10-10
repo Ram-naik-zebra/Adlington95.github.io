@@ -1,6 +1,6 @@
 {
   "customer": {
-    "add": false,
+    "add": true,
     "delete": false,
     "edit": false,
     "search": true
