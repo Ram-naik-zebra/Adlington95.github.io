@@ -13,7 +13,7 @@
     "attributes": true
   },
   "header": {
-    "onboarding": true,
+    "onboarding": false,
     "appLaunch": true,
     "language": true,
     "profile": true
