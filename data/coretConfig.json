@@ -10,7 +10,9 @@
     "delete": true,
     "edit": true,
     "search": true,
-    "attributes": true
+    "attributes": true,
+    "export": true,
+    "settings": true
   },
   "header": {
     "onboarding": true,
