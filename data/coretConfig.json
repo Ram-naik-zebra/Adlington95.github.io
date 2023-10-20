@@ -9,7 +9,7 @@
     "add": true,
     "delete": true,
     "edit": true,
-    "search": true,
+    "search": false,
     "attributes": true,
     "export": true,
     "settings": true
