@@ -12,7 +12,7 @@
     "search": true,
     "attributes": true,
     "export": true,
-    "settings": true
+    "settings": false
   },
   "header": {
     "onboarding": true,
