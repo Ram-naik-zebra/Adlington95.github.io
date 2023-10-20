@@ -11,7 +11,7 @@
     "edit": true,
     "search": true,
     "attributes": true,
-    "export": false,
+    "export": true,
     "settings": true
   },
   "header": {
