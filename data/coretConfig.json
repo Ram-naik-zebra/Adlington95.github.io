@@ -6,6 +6,7 @@
     "search": true
   },
   "user": {
+    "sample": true,
     "add": true,
     "delete": true,
     "edit": true,
